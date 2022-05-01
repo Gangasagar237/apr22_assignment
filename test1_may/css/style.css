@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+#mawork{
+    background-color: red;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    transform: translate(15%,10%);
+    height: 55%;
+}
+#mawork>.class1,.class2,.class3{
+    height: 100px;
+    width: 250px;
+    background-color: green;
+    margin-left: 20px;
+}
+.class2{
+    margin-top: 5px;
+}
+.class3{
+    text-align: end;
+    margin-top:20px;
+}
+.class3 p{
+    margin-top: 45px;
+}
