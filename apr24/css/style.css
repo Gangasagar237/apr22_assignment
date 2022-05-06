@@ -1,0 +1,60 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/61/79/ba/6179bac03a8f13857c55d90e3ceaf063.jpg");
+    overflow: hidden;
+    box-sizing: border-box;
+    margin: 0%;
+  }
+  html {
+    font-family: "Square Peg", cursive;
+  }
+
+  #topdiv {
+    width: fit-content;
+    height: fit-content;
+    border: none;
+    position: relative;
+    top: 10%;
+    left: 40%;
+    box-sizing: border-box;
+  }
+
+  p {
+    position: relative;
+    bottom: 150;
+    left: 110;
+    text-align: left;
+  }
+
+  h1 {
+    position: relative;
+    bottom: 130;
+    left: 145;
+    text-align: left;
+  }
+
+  #botp {
+    position: relative;
+    left: 49%;
+    bottom: 110;
+    box-sizing: border-box;
+  }
+
+  #geek {
+    position: relative;
+    right: 250;
+    bottom: 110;
+  }
+
+  #info {
+    width: 400px;
+    height: 200;
+    background-color: white;
+    position: relative;
+    left: 40%;
+    bottom: 120;
+    box-sizing: border-box;
+  }
+
+  #main {
+    box-sizing: border-box;
+  }
